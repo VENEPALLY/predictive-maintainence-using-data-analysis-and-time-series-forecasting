@@ -38,4 +38,4 @@ This project is currently maintained by Sai Sharath Chandra Venepally, a Softwar
 
 You can connect with me via:
 - Email: sharathvenepally603@gmail.com
-- LinkedIn: https://linkedin.com/in/aniruddhatrey
+- LinkedIn: https://www.linkedin.com/in/sharath-chandra-venepally
